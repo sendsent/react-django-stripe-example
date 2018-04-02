@@ -1,0 +1,13 @@
+certifi==2018.1.18
+chardet==3.0.4
+Django==1.11.2
+django-cors-headers==2.1.0
+django-debug-toolbar==1.9.1
+djangorestframework==3.7.7
+idna==2.6
+python-decouple==3.1
+pytz==2018.3
+requests==2.18.4
+sqlparse==0.2.4
+stripe==1.79.1
+urllib3==1.22
